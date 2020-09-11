@@ -1,0 +1,53 @@
+ * {
+     box-sizing: border-box;
+     margin: 0 auto;
+     padding: 0;
+     max-width: 100%;
+ }
+ 
+ body {
+     padding: 2rem 2rem;
+ }
+ 
+ .page-header {
+     background-color: rgb(29, 29, 169);
+     color: white;
+     padding: 1rem 2rem;
+     font-size: 1.5rem;
+ }
+ 
+ .container-header {
+     padding: 1.5rem;
+     padding-left: 0px;
+     font-size: 1.25rem;
+     font-weight: bold;
+ }
+ 
+ .dog-image {
+     padding: 1.5rem;
+ }
+ 
+ .dog-name {
+     padding: .5rem;
+     padding-left: 0px;
+     font-size: 1.25rem;
+     font-weight: bold;
+ }
+ 
+ .dog-traits {}
+ 
+ .trait {
+     background-color: rgb(28, 232, 232);
+     box-sizing: border-box;
+     border-radius: 1rem;
+     text-align: center;
+     margin: 1rem;
+     margin-left: 0rem;
+     padding: 1rem;
+     max-width: 20%;
+ }
+ /* img {
+        max-width: 100%;
+        footer {
+        background-image: ;
+        } */
